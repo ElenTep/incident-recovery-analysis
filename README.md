@@ -1,6 +1,6 @@
 ## 🔗 Explore the Project
 
-[Firewall Logs](logs/firewall.log)
+Firewall Logs(logs/firewall.log)
 [Web Server Logs](logs/webserver.log)
 [Executive Summary](reports/executive_summary.md)
 [Lessons Learned](reports/lessons_learned.md)
