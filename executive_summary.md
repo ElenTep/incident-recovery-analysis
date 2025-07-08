@@ -1,0 +1,3 @@
+## Executive Summary
+
+On April 12, 2025, One Technology experienced a multi-stage cyberattack. It began with a USB-based malware infection that spread to a web server and enabled remote shell access via a vulnerable upload function. The incident response team successfully isolated and reimaged affected systems, hardened security policies, and confirmed no customer data was exfiltrated. Post-incident reviews led to enhanced controls and USB restrictions.
