@@ -1,12 +1,14 @@
-![ChatGPT Image 8 июл  2025 г , 17_48_45](https://github.com/user-attachments/assets/df1e2cf6-70d9-4fe5-80ea-c8fb794f7a1e)
 ## 🔗 Explore the Project
-
 - [Firewall Logs](firewall.log)
 - [Web Server Logs](webserver.log)
 - [Executive Summary](executive_summary.md)
 - [Lessons Learned](lessons_learned.md)
 - [Change Control Plan](change_control_plan.md)
 - [Evidence Retention](evidence_retention.md)
+
+## 🧭 Attack Flow Diagram
+![Attack Flow Diagram](A_flowchart_in_digital_illustration_style_depicts_.png)
+
 
 # incident-recovery-analysis
 Cybersecurity simulation project — malware infection via USB, shell access, C2 traffic, and recovery analysis.
