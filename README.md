@@ -1,11 +1,11 @@
 ## 🔗 Explore the Project
 
-[Firewall Logs](logs/firewall.log)
-[Web Server Logs](logs/webserver.log)
-[Executive Summary](reports/executive_summary.md)
-[Lessons Learned](reports/lessons_learned.md)
-[Change Control Plan](reports/change_control_plan.md)
-[Evidence Retention](reports/evidence_retention.md)
+[Firewall Logs](logs/firewall.log)[firewall.log](https://github.com/user-attachments/files/21131301/firewall.log)
+[Web Server logs](https://github.com/user-attachments/files/21131300/webserver.log)
+[Executive_Summary](https://github.com/user-attachments/files/21131295/executive_summary.md)
+[lessons_learned](https://github.com/user-attachments/files/21131294/lessons_learned.md)
+[Change_Control_Plan](https://github.com/user-attachments/files/21131293/change_control_plan.md)
+[Evidence_Retention](https://github.com/user-attachments/files/21131292/evidence_retention.md)
 
 # incident-recovery-analysis
 Cybersecurity simulation project — malware infection via USB, shell access, C2 traffic, and recovery analysis.
