@@ -7,7 +7,7 @@
 - [Evidence Retention](evidence_retention.md)
 
 ## 🧭 Attack Flow Diagram
-![Attack Flow Diagram](A_flowchart_in_digital_illustration_style_depicts_.png)
+![Attack Flow Diagram](attack_flow_diagram.png)
 
 
 # incident-recovery-analysis
