@@ -1,3 +1,5 @@
+[firewall.log](https://github.com/user-attachments/files/21131144/firewall.log)
+[webserver.log](https://github.com/user-attachments/files/21131143/webserver.log)
 # incident-recovery-analysis
 Cybersecurity simulation project — malware infection via USB, shell access, C2 traffic, and recovery analysis.
 
