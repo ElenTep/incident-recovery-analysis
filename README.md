@@ -1,3 +1,4 @@
+![ChatGPT Image 8 июл  2025 г , 17_48_45](https://github.com/user-attachments/assets/df1e2cf6-70d9-4fe5-80ea-c8fb794f7a1e)
 ## 🔗 Explore the Project
 
 - [Firewall Logs](firewall.log)
